@@ -1,5 +1,5 @@
 - 👋 Hi, I’m weberton tavares, Estou em transição de carreira.
-- 👀 Estou estudando Análise e Desenvolvimento de Sisitemas
+- 👀 Estou estudando Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente faço curso HTML5 e CSS3!
 
 
